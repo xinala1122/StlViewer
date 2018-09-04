@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/ToolBar">
+        <file>picture/ToolBar/new.png</file>
+        <file>picture/ToolBar/print.png</file>
+        <file>picture/ToolBar/save.png</file>
+        <file>picture/ToolBar/undo.png</file>
+        <file>picture/ToolBar/setup.png</file>
+        <file>picture/ToolBar/close.png</file>
+        <file>picture/ToolBar/help.png</file>
+        <file>picture/ToolBar/open.png</file>
+        <file>picture/ToolBar/loadProject.png</file>
+        <file>picture/ToolBar/reset_Flow.png</file>
+        <file>picture/ToolBar/start_Flow.png</file>
+        <file>picture/ToolBar/windowViewSet.png</file>
+        <file>picture/ToolBar/saveAll.png</file>
+        <file>picture/ToolBar/zoomfit.png</file>
+        <file>picture/ToolBar/handCursor.png</file>
+    </qresource>
+    <qresource prefix="/Root">
+        <file>picture/singmedizin.png</file>
+        <file>picture/SingmedizinLogo.ico</file>
+    </qresource>
+</RCC>
